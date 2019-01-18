@@ -12,7 +12,7 @@ Discuss the project on Slack, and once you are ready to submit your application,
 
 [IDEA-TITE]
 
-Mentor: ( dot at Emory dot edu)
+Mentor: ( dot at emory dot edu)
 
 Overview: [Overview]
 
