@@ -6,8 +6,13 @@ Welcome to GSoC 2019. We have applied as a GSoC organization, and we look forwar
 # LIST OF IDEAS
 
 Please follow the below template when adding additional ideas.
+
 [IDEA-TITE]
-    Mentor: ( dot at Emory dot edu)
-    Overview: [Overview]
-    Requirements: [Tools/skills needed]
-    Difficulty: [Easy/Medium/Hard]
+
+Mentor: ( dot at Emory dot edu)
+
+Overview: [Overview]
+
+Requirements: [Tools/skills needed]
+
+Difficulty: [Easy/Medium/Hard]
