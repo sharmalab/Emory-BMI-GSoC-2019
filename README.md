@@ -19,7 +19,6 @@ Discuss the project on Slack, and once you are ready to submit your application,
 
 **Requirements:** Javascript, D3 (recommended)
 
-**Difficulty:** Medium
 
 
 **[2] Machine Learning Model Support for Digital Pathology**
@@ -30,7 +29,6 @@ Discuss the project on Slack, and once you are ready to submit your application,
     
 **Requirements:** Javascript, TensorFlow.js (or similar)
     
-**Difficulty:** Medium
 
 
 [IDEA-TITE]
@@ -41,7 +39,6 @@ Overview: [Overview]
 
 Requirements: [Tools/skills needed]
 
-Difficulty: [Easy/Medium/Hard]
 
 
 
