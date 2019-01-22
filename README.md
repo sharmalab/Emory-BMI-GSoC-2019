@@ -11,22 +11,22 @@ This year we will be using Slack as the primary medium of communication. Each id
 Discuss the project on Slack, and once you are ready to submit your application, use the template below. You must submit your application directly using the GSoC Program Site.
 
 
-*Interactive Multidimensional Visualizations*
+**[1] Interactive Multidimensional Visualizations**
 
-Mentor: Ryan Birmingham ( rbirmin -at- emory.edu)
+**Mentor:** Ryan Birmingham ( rbirmin -at- emory.edu)
 
-Overview: DataScope is a framework for exploratory analysis on high dimensional datasets, especially biomedical datasets. This project would involve creating interactive visualizations that would assist with cohort creation, manual dimensionality reduction, and dataset exploration.
+**Overview:** DataScope is a framework for exploratory analysis on high dimensional datasets, especially biomedical datasets. This project would involve creating interactive visualizations that would assist with cohort creation, manual dimensionality reduction, and dataset exploration.
 
-Requirements: Javascript, D3 (recommended)
+**Requirements:** Javascript, D3 (recommended)
 
 
-*Machine Learning Model Support for Digital Pathology*
+**[2] Machine Learning Model Support for Digital Pathology**
 
-Mentor:Ryan Birmingham ( rbirmin -at- emory.edu)
+**Mentor:** Ryan Birmingham ( rbirmin -at- emory.edu)
 
-Overview: caMicroscope is an extensible digital pathology and biomedical image viewer. This project would involve creating a workflow to allow model developers to allow their model to be run on a selected image or region of interest by the client, to identify cellular features or cancer. 
+**Overview:** caMicroscope is an extensible digital pathology and biomedical image viewer. This project would involve creating a workflow to allow model developers to allow their model to be run on a selected image or region of interest by the client, to identify cellular features or cancer. 
     
-Requirements: Javascript, TensorFlow.js (or similar)
+**Requirements:** Javascript, TensorFlow.js (or similar)
     
 
 [IDEA-TITE]
