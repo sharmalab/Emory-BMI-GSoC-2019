@@ -71,6 +71,27 @@ Discuss the project on Slack, and once you are ready to submit your application,
 
 
 
+**[5] Visualization recommendation engine**
+    
+**Mentor:** Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu)
+    
+**Overview:** Leverage state of the art visualization recommendation engine to recommend visualizations for a given dataset. The output of this system can initially be visualizations and later be extended to generate datascope JSON formats
+             
+**Present Status of the work:**               
+
+**Code challenge:** create a microservice out of a popular recommendation algorithm
+             
+**Deliverables:**
+Create a web based UI for uploading CSV/JSON files
+Create a microservice to    
+consume these files
+perform recommendation inference
+respond with inference results either sync/async
+Create a web based UI to display recommended visualizations
+Generate JSON response for consumption by DataScope (Optional)
+ 
+**Requirements (including dataset details):** Python, D3, Javascript
+
 
 
 
