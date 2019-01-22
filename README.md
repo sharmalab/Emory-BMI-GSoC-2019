@@ -31,13 +31,6 @@ Discuss the project on Slack, and once you are ready to submit your application,
     
 
 
-[IDEA-TITE]
-
-Mentor(s): ( dot at emory dot edu)
-
-Overview: [Overview]
-
-Requirements: [Tools/skills needed]
 
 
 
