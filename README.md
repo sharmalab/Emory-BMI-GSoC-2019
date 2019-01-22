@@ -50,7 +50,9 @@ Discuss the project on Slack, and once you are ready to submit your application,
 **Requirements (including dataset details):** Tensorflow, python
 
 
+
 **[4] Development of Compact layer**  
+
 **Mentor:** Monjoy Saha  (monjoy.saha -at- emory.edu)
  
 **Overview:**
