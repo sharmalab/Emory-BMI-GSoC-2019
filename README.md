@@ -38,3 +38,11 @@ Overview: [Overview]
 Requirements: [Tools/skills needed]
 
 Difficulty: [Easy/Medium/Hard]
+
+
+
+# Source Repositories
+
+We are committed to open source development. As a research organization, our source code lives across several open source project repositories. Most of them can be found in the below locations:
+
+https://github.com/sharmalab
