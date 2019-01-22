@@ -13,21 +13,25 @@ Discuss the project on Slack, and once you are ready to submit your application,
 
 **[1] Interactive Multidimensional Visualizations**
 
-**Mentor:** Ryan Birmingham ( rbirmin -at- emory.edu)
+**Mentor:** Ryan Birmingham ( rbirmin -at- emory.edu) and Nan Li (nan.li -at- emory.edu)
 
 **Overview:** DataScope is a framework for exploratory analysis on high dimensional datasets, especially biomedical datasets. This project would involve creating interactive visualizations that would assist with cohort creation, manual dimensionality reduction, and dataset exploration.
 
 **Requirements:** Javascript, D3 (recommended)
 
+**Difficulty:** Medium
+
 
 **[2] Machine Learning Model Support for Digital Pathology**
 
-**Mentor:** Ryan Birmingham ( rbirmin -at- emory.edu)
+**Mentor:** Ryan Birmingham ( rbirmin -at- emory.edu) and  and Ping Gu (ping.gu -at- emory.edu)
 
 **Overview:** caMicroscope is an extensible digital pathology and biomedical image viewer. This project would involve creating a workflow to allow model developers to allow their model to be run on a selected image or region of interest by the client, to identify cellular features or cancer. 
     
 **Requirements:** Javascript, TensorFlow.js (or similar)
     
+**Difficulty:** Medium
+
 
 [IDEA-TITE]
 
