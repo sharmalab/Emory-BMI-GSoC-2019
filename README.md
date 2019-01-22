@@ -31,6 +31,44 @@ Discuss the project on Slack, and once you are ready to submit your application,
     
 
 
+**[3] Graphical User Interface for Tensorflow**
+ 
+**Mentor:** Monjoy Saha  (monjoy.saha -at- emory.edu)
+ 
+**Overview:**
+              
+**Present Status of the work:**
+              
+**Proposed idea:**
+ 
+**Benefits:**
+ 
+**Deliverables:**
+ 
+**Timeline:**
+
+**Requirements (including dataset details):** Tensorflow, python
+
+
+**[4] Development of Compact layer**  
+**Mentor:** Monjoy Saha  (monjoy.saha -at- emory.edu)
+ 
+**Overview:**
+              
+**Present Status of the work:**
+              
+**Proposed idea:**
+ 
+**Benefits:**
+ 
+**Deliverables:**
+ 
+**Timeline:**
+
+**Requirements (including dataset details):** Tensorflow, python
+
+
+
 
 
 
