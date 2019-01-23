@@ -10,6 +10,7 @@ This year we will be using Slack as the primary medium of communication. Each id
 # List of Ideas
 Discuss the project on Slack, and once you are ready to submit your application, use the template below. You must submit your application directly using the GSoC Program Site.
 
+***
 
 **[1] Interactive Multidimensional Visualizations**
 
@@ -19,7 +20,7 @@ Discuss the project on Slack, and once you are ready to submit your application,
 
 **Requirements:** Javascript, D3 (recommended)
 
-
+***
 
 **[2] Machine Learning Model Support for Digital Pathology**
 
@@ -29,7 +30,7 @@ Discuss the project on Slack, and once you are ready to submit your application,
     
 **Requirements:** Javascript, TensorFlow.js (or similar)
     
-
+***
 
 **[3] Graphical User Interface for Tensorflow**
  
@@ -49,7 +50,7 @@ Discuss the project on Slack, and once you are ready to submit your application,
 
 **Requirements (including dataset details):** Tensorflow, python
 
-
+***
 
 **[4] Development of Compact layer**  
 
@@ -69,7 +70,7 @@ Discuss the project on Slack, and once you are ready to submit your application,
 
 **Requirements (including dataset details):** Tensorflow, python
 
-
+***
 
 **[5] Visualization recommendation engine**
     
@@ -92,6 +93,7 @@ Generate JSON response for consumption by DataScope (Optional)
  
 **Requirements (including dataset details):** Python, D3, Javascript
 
+***
 
 **6.  DeepConverter: A Universal tool for Theano to Tensorflow Convertor**
 
@@ -105,6 +107,7 @@ Generate JSON response for consumption by DataScope (Optional)
 
 **Community and Code License:** 
 
+***
 
 **7. Sub-second queries on billion point datasets in Datascope**
 
@@ -114,7 +117,8 @@ Generate JSON response for consumption by DataScope (Optional)
 Students can consider OLAP engines like Kylin: http://kylin.apache.org/ for the backend. However, as an open-ended problem we expect the student to propose their own solution and justify it.
 
 **Languages:** Javascript
-     
+   
+***   
 
 **8. Vega/Vega-lite extensions to Datascope**
 
@@ -123,6 +127,7 @@ Students can consider OLAP engines like Kylin: http://kylin.apache.org/ for the 
 **Overview:** Currently Datascope uses templated visualizations. This project aims to provide users the ability to declaratively specify what visualizations they’d want to see in datascope using a grammar called Vega. All of datascope’s visualizations are interactive, so the challenge would be extend Vega’s capabilities to support these interactions.
 Languages: Javascript, D3
 
+***
 
 **9. Security Enhancements to Bindaas Data Integration Middleware**
 
@@ -136,6 +141,7 @@ Code challenge: The students are expected to configure Bindaas locally. If the s
 
 **Community and Code License:** https://github.com/sharmalab/bindaas Apache License 2.0
 
+***
 
 **10. A Query Layer based on GraphQL for Diverse Data sets**
 
@@ -149,7 +155,7 @@ In this project, the student is expected to use GraphQL to build a query layer f
 
 **Community and Code License:** https://github.com/sharmalab/datacafe Apache License 2.0
 
-
+***
 
 # Source Repositories
 
