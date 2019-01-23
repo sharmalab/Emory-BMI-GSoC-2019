@@ -147,6 +147,8 @@ Furthermore, we need to ensure that Bindaas is secured against attacks such as S
 **Expected results:** We are aiming for the Bindaas 4.0 release with the enhancements in place.
 Code challenge: The students are expected to configure Bindaas locally. If the student manages to resolve one of the issues listed in https://github.com/sharmalab/bindaas/issues, it will make them a strong candidate.
 
+**Languages:** Java
+
 **Community and Code License:** https://github.com/sharmalab/bindaas Apache License 2.0
 
 ***
@@ -160,6 +162,8 @@ Code challenge: The students are expected to configure Bindaas locally. If the s
 In this project, the student is expected to use GraphQL to build a query layer for diverse data sources, as an architecture built on top of Data Cafe and/or Drill. There have been (currently discontinued) efforts on building a Drill storage plugin for GraphQL, which might be an interesting starting point to look at.
 
 **Code challenge:**  Students are expected to show their competence in configuring open source projects such as Drill and HDFS. Successfully deploying Data Cafe locally with its base project can be considered a good start.
+
+**Languages:** Java
 
 **Community and Code License:** https://github.com/sharmalab/datacafe Apache License 2.0
 
