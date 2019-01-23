@@ -48,7 +48,7 @@ Discuss the project on Slack, and once you are ready to submit your application,
  
 **Timeline:**
 
-**Requirements (including dataset details):** Tensorflow, python
+**Requirements (including dataset details):** Tensorflow, Python
 
 ***
 
@@ -68,7 +68,7 @@ Discuss the project on Slack, and once you are ready to submit your application,
  
 **Timeline:**
 
-**Requirements (including dataset details):** Tensorflow, python
+**Requirements (including dataset details):** Tensorflow, Python
 
 ***
 
