@@ -83,12 +83,19 @@ Discuss the project on Slack, and once you are ready to submit your application,
 **Code challenge:** create a microservice out of a popular recommendation algorithm
              
 **Deliverables:**
+
 Create a web based UI for uploading CSV/JSON files
+
 Create a microservice to    
+
 -- consume these files
+
 -- perform recommendation inference
+
 -- respond with inference results either sync/async
+
 Create a web based UI to display recommended visualizations
+
 Generate JSON response for consumption by DataScope (Optional)
  
 **Requirements (including dataset details):** Python, D3, Javascript
@@ -134,6 +141,7 @@ Languages: Javascript, D3
 **Mentors:** Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu) and Whitney Hogg (whitney.hogg -at- emory.edu)
 
 **Overview:** Bindaas is a service-based framework that offers unified access and RESTful APIs to various data sources. Security is an essential aspect of the Bindaas framework as it is the backbone of several production systems such as the Cancer Imaging Archive (TCIA). There have been several proposals for improving Bindaas’ authentication and authorization. One of them is to consider moving to OAuth 2.0 and more specifically to JWT(JSON Web Token) for authorization.
+
 Furthermore, we need to ensure that Bindaas is secured against attacks such as SQL Injections. There are already mechanisms in place to ensure this. However, the students can look into the system to see whether there are any shortcomings or the potential for improvement.
 
 **Expected results:** We are aiming for the Bindaas 4.0 release with the enhancements in place.
