@@ -70,6 +70,8 @@ There are very few organizations that are also working on the development of alm
 
 **Required Skills:** Tensorflow, Python
 
+**Community and Code License:** Apache License 2.0
+
 ***
 
 **[4] Development of Compact/Encapsulated Layer**  
@@ -87,6 +89,8 @@ There are very few organizations that are also working on the development of alm
 **Deliverables:**  A new encapsulated layer for neural networks in Tensorflow
  
 **Required Skills:** Tensorflow, Python, C/C++ (optional)
+
+**Community and Code License:** Apache License 2.0
 
 ***
 
@@ -120,6 +124,7 @@ Generate JSON response for consumption by DataScope (Optional)
 
 
 ***
+
 **[6] An OpenSlide Reader for TensorFlow: Enabling Machine-Learning for Digital Pathology**
 
 **Mentors:** Monjoy Saha (monjoy.saha -at- emory.edu) and Lee Cooper (lee.cooper -at- emory.edu)
