@@ -58,6 +58,7 @@ Allowing interactions in a viewer would allow model developers to more quickly d
 **Overview:** This project aims to develop a graphical user interface (GUI) for any deep learning model development and visualization of outcomes based on the existing Tensorflow functions. This interface will act just like a simulator similar to MATLAB. This technique will be helpful for the beginners who don't have sufficient programming knowledge. Moreover, our proposed concept will help to maintain the quality of the work.
               
 **Present Status of the work:** As per our knowledge, there is no such kind of GUI available for TensorFlow or any other deep learning framework. We can generate the model graph after training the model but it’s almost impossible to make any changes in the graph. If we want to change in the graph, in that case, we have to change in the code only.
+
 There are very few organizations that are also working on the development of almost similar kind of tools. Deep Cognition (https://deepcognition.ai/) is one of them. Though they have many limitations including the quality of the code/output and the number of users. This is not an open source software.
 
               
