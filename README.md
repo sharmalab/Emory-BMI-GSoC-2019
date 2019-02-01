@@ -43,7 +43,7 @@ caMicroscope is designed with extensions and accompanying applications in mind. 
 Allowing interactions in a viewer would allow model developers to more quickly debug and develop, and would lead to a wider variety and better accuracy of models available to pathologists.
  
    
-**Requirements:** Javascript, TensorFlow.js (or similar browser-based machine learning toolkit)
+**Required Skills:** Javascript, TensorFlow.js (or similar browser-based machine learning toolkit)
 
 **Code Challenge:** Create a simple model which can run entirely in the browser.
 
@@ -67,7 +67,7 @@ There are very few organizations that are also working on the development of alm
  
 **Deliverables:** GUI for Tensorflow model 
 
-**Requirements:** Tensorflow, Python
+**Required Skills:** Tensorflow, Python
 
 ***
 
@@ -85,7 +85,7 @@ There are very few organizations that are also working on the development of alm
  
 **Deliverables:**  A new encapsulated layer for neural networks in Tensorflow
  
-**Requirements (including dataset details):** Tensorflow, Python, C/C++ (optional)
+**Required Skills:** Tensorflow, Python, C/C++ (optional)
 
 ***
 
@@ -113,77 +113,98 @@ Create a web based UI to display recommended visualizations
 
 Generate JSON response for consumption by DataScope (Optional)
  
-**Requirements (including dataset details):** Python, D3, Javascript
+**Required Skills:** Python, D3, Javascript
 
 **Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
 
 
 ***
+**[6] An OpenSlide Reader for TensorFlow: Enabling Machine-Learning for Digital Pathology**
 
-**6.  DeepConverter: A Universal tool for Theano to Tensorflow Convertor**
+**Mentors:** Monjoy Saha (monjoy.saha -at- emory.edu) and Lee Cooper (lee.cooper -at- emory.edu)
 
-**Mentors:** Monjoy Saha (monjoy.saha -at- emory.edu)
+**Overview:** This project seeks to develop a custom TensorFlow reader for digital pathology whole slide images (WSIs). These images are massive, often 80K x 120K or larger, and are stored in proprietary formats that can be read by the OpenSlide Library but can not be directly read by Tensorflow. This project will develop a C reader based on OpenSlide to enable these images to be read efficiently within TensorFlow.
 
-**Overview:** This topic aims to develop an universal deep learning tool which can be used for converting all Theano codes into Tensorflow supported code. 
+**Present Status of the work:** As per our knowledge, there is no such tool in the existing OpenSlide software for converting the images/datasets into the Tensorflow supported "TfRecord" file format (extension of files  .tfrecord). On the other hand, Tensorflow doesn't encourage the user to use some other file formats rather than TfRecords. TfRecords are the best way to handle a complex training dataset structure in a single record file. 
 
-**Expected results:** 
+**Expected results:** A documented, tested implementation with build instructions for popular platforms.
 
-**Code challenge:** 
+**Required Skills:** C, software profiling, and optimization.
 
-**Community and Code License:** 
+**Community and Code License:** Apache License 2.0
 
 ***
 
-**7. Sub-second queries on billion point datasets in Datascope**
+**[7] DeepConverter: A Universal tool for Theano to Tensorflow Convertor**
+
+**Mentors:** Monjoy Saha (monjoy.saha -at- emory.edu), Pooya Mobadersany (pooya.mobadersany -at- emory.edu), and Xiaoyuan Guo (xiaoyuan.guo -at- emory.edu)
+
+**Overview:** This proposal aims to develop a universal converter for converting a trained deep learning model from Theano to Tensorflow or vice-versa. There are many open-source software libraries, like Tensorflow, Theano, Caffe, CNTK, Pytorch, etc., available for dataflow programming. But it is a very complicated and challenging task if we want to run/test a trained model developed in Theano/Tensorflow/Caffe, etc., using different libraries. Hence, we are concentrating on the development of Theano to Tensorflow or vice-versa converter. We are focusing on the Theano because there will not be any further development or official release after the last version (Theano 1.0.0) on November 15, 2017 [http://deeplearning.net/software/theano/].
+
+**Present Status of the work:** There is no such tool available which can solve this purpose. Few authors reported the use of weight values from a trained model in Theano and tried to run in Tensorflow. Their success  rate is not satisfactory.  
+
+**Proposed idea:** We will write code in such a way so that we can use already developed, in Theano/Tensorflow, models.  From the end users point of view, only model architecture needs to write in for that particular library. 
+
+**Expected results:** A converter tool which can be used to run a Theano/Tensorflow pre-trained models. 
+
+**Required Skills:** Tensorflow, Theano, Python, C/C++
+
+**Community and Code License:** Apache License 2.0
+
+***
+
+**[8] Sub-second queries on billion point datasets in Datascope**
 
 **Mentors:**  Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu) and Sapoon Dutta (sapoon.dutta -at- emory.edu)
 
 **Overview:** Datascope currently uses crossfilter.js on a Node application server to store data and perform queries on it. This project would involve refactoring Datascope’s backend to use other frameworks instead of Crossfilter. The student would develop capabilities that ensure that the Datascope’s declarative schema is compatible with the new application server.
+
 Students can consider OLAP engines like Kylin: http://kylin.apache.org/ for the backend. However, as an open-ended problem we expect the student to propose their own solution and justify it.
 
-**Languages:** Javascript
-   
-***   
+**Required Skills:** Javascript
 
-**8. Vega/Vega-lite extensions to Datascope**
-
-**Mentors:**  Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu) and Ashish Sharma (ashish.sharma -at- emory.edu)
-
-**Overview:** Currently Datascope uses templated visualizations. This project aims to provide users the ability to declaratively specify what visualizations they’d want to see in datascope using a grammar called Vega. All of datascope’s visualizations are interactive, so the challenge would be extend Vega’s capabilities to support these interactions.
-Languages: Javascript, D3
+**Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
 
 ***
 
-**9. Security Enhancements to Bindaas Data Integration Middleware**
+**[9] Security Enhancements to Bindaas Data Integration Middleware**
 
-**Mentors:** Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu) and Whitney Hogg (whitney.hogg -at- emory.edu)
+**Mentors:** Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu), Whitney Hogg (whitney.hogg -at- emory.edu),  and Ashish Sharma (ashish.sharma -at- emory.edu)
 
-**Overview:** Bindaas is a service-based framework that offers unified access and RESTful APIs to various data sources. Security is an essential aspect of the Bindaas framework as it is the backbone of several production systems such as the Cancer Imaging Archive (TCIA). There have been several proposals for improving Bindaas’ authentication and authorization. One of them is to consider moving to OAuth 2.0 and more specifically to JWT(JSON Web Token) for authorization.
+**Overview:** Bindaas is a service-based data framework that offers unified access and RESTful APIs to various data sources, such as MySQL, PostgreSQL, Mongo, and Apache Drill. Additional data service providers can be implemented for various data sources and access mechanisms such as HTTP access. Bindaas is the backbone of several production systems such as the Cancer Imaging Archive (TCIA). 
+
+Security is an essential aspect of the Bindaas framework to ensure uncompromised access to the data sources. Currently, Bindaas generates short-lived API keys internally, and offer authenticated access with the API keys. Each request to a data service API defined in Bindaas requires the API key to be present.
+
+There have been several proposals for improving Bindaas’ authentication and authorization. First, there have been proposals for more scalable and secure alternative to the Bindaas short lived API keys. One of them is to consider moving to OAuth 2.0 and more specifically to JWT(JSON Web Token) for authorization.
 
 Furthermore, we need to ensure that Bindaas is secured against attacks such as SQL Injections. There are already mechanisms in place to ensure this. However, the students can look into the system to see whether there are any shortcomings or the potential for improvement.
 
 **Expected results:** We are aiming for the Bindaas 4.0 release with the enhancements in place.
-Code challenge: The students are expected to configure Bindaas locally. If the student manages to resolve one of the issues listed in https://github.com/sharmalab/bindaas/issues, it will make them a strong candidate.
 
-**Languages:** Java
+**Code challenge:** The students are expected to configure Bindaas locally during the application period to understand the code base and to illustrate their capability in completing this task. If the student manages to resolve one of the issues listed in https://github.com/sharmalab/bindaas/issues, it will make them a strong candidate.
+
+**Required Skills:** Java, Web Services, Apache Maven, OSGi
 
 **Community and Code License:** https://github.com/sharmalab/bindaas Apache License 2.0
 
 ***
 
-**10. A Query Layer based on GraphQL for Diverse Data sets**
+**[10] A Query Layer based on GraphQL for Diverse Data sets** 
 
 **Mentors:** Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu) and Mohanapriya Narapareddy (mohanapriya.narapareddy -at- emory.edu)
 
-**Overview:** We have built a prototype dynamic data warehousing system, known as Data Cafe. Data Cafe lets the resource providers create biomedical data lakes from various data sources, and lets the research data users consume the data lakes efficiently and quickly without having a priori knowledge of the data schema. Data Cafe leverages Apache Drill for its efficient queries.
+**Overview:** GraphQL is a query language for APIs. In this project, the student will use GraphQL to build a query layer for diverse data sources. The student can propose their own approach to this challenge of leveraging GraphQL to query diverse textual/clinical data as well as binary imaging (DICOM) data consisting of textual metadata.
 
-In this project, the student is expected to use GraphQL to build a query layer for diverse data sources, as an architecture built on top of Data Cafe and/or Drill. There have been (currently discontinued) efforts on building a Drill storage plugin for GraphQL, which might be an interesting starting point to look at.
+There have been several proposals for leveraging GraphQL to query heterogeneous data sources. One potential is integrating it with Apache Drill as a storage plugin or a querying mechanism. There have been (currently discontinued) efforts on building a Drill storage plugin for GraphQL, which might be an interesting starting point to look at.
 
-**Code challenge:**  Students are expected to show their competence in configuring open source projects such as Drill and HDFS. Successfully deploying Data Cafe locally with its base project can be considered a good start.
+We have built a prototype dynamic data integration framework, known as Data Cafe. Data Cafe lets the resource providers create biomedical data lakes from various data sources, and lets the research data users consume the data lakes efficiently and quickly without having a priori knowledge of the data schema. Data Cafe leverages Apache Drill for its efficient queries. The student can either extend Data Cafe to build data lakes and query them using GraphQL or build a prototype from scratch with entirely GraphQL for our diverse queries consisting of radiology and clinical data.
 
-**Languages:** Java
+**Code challenge:** Students are expected to show their competence in configuring open source projects such as Drill and HDFS. Successfully deploying Data Cafe locally with its base project can be considered a good start.
 
-**Community and Code License:** https://github.com/sharmalab/datacafe Apache License 2.0
+**Required Skills:** Java, Distributed Systems, GraphQL, Apache Drill, Apache Maven.
+
+**Community and Code License**: https://github.com/sharmalab/datacafe Apache License 2.0
+
 
 ***
 
