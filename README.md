@@ -53,7 +53,7 @@ Allowing interactions in a viewer would allow model developers to more quickly d
 
 **[3] Graphical User Interface for Tensorflow**
  
-**Mentor:** Monjoy Saha  (monjoy.saha -at- emory.edu) and Pooya Mobadersany (pooya.mobadersany -at- emory.edu)
+**Mentors:** Monjoy Saha  (monjoy.saha -at- emory.edu) and Pooya Mobadersany (pooya.mobadersany -at- emory.edu)
  
 **Overview:** This project aims to develop a graphical user interface (GUI) for any deep learning model development and visualization of outcomes based on the existing Tensorflow functions. This interface will act just like a simulator similar to MATLAB. This technique will be helpful for the beginners who don't have sufficient programming knowledge. Moreover, our proposed concept will help to maintain the quality of the work.
               
@@ -91,7 +91,7 @@ There are very few organizations that are also working on the development of alm
 
 **[5] Visualization recommendation engine**
     
-**Mentor:** Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu) and Sapoon Dutta (sapoon.dutta -at- emory.edu)
+**Mentors:** Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu) and Sapoon Dutta (sapoon.dutta -at- emory.edu)
     
 **Overview:** Leverage state of the art visualization recommendation engine to recommend visualizations for a given dataset. The output of this system can initially be visualizations and later be extended to generate Datascope JSON formats
              
