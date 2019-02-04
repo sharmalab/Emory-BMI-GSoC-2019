@@ -104,19 +104,17 @@ There are very few organizations that are also working on the development of alm
              
 **Deliverables:**
 
-Create a web based UI for uploading CSV/JSON files
+* Create a web based UI for uploading CSV/JSON files
 
-Create a microservice to    
+* Create a microservice to    
 
--- consume these files
+  * consume these files
+  * perform recommendation inference
+  * respond with inference results either sync/async
 
--- perform recommendation inference
+* Create a web based UI to display recommended visualizations
 
--- respond with inference results either sync/async
-
-Create a web based UI to display recommended visualizations
-
-Generate JSON response for consumption by DataScope (Optional)
+* Generate JSON response for consumption by DataScope (Optional)
  
 **Required Skills:** Python, D3, Javascript
 
