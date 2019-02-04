@@ -214,6 +214,22 @@ We have built a prototype dynamic data integration framework, known as Data Cafe
 
 ***
 
+**[11] DataScope using serverless functions.**
+
+**Mentors:**  Ashish Sharma (ashish.sharma -at- emory.edu) and Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu)
+
+**Overview:** DataScope is a framework for exploratory analysis on high dimensional datasets, especially biomedical datasets. 
+
+During this project, the student would work towards making every request for Data Cafe stateless. Consequently, the whole application will be served via a content-delivery network (CDN).
+
+**Required Skills:** Javascript, Serverless
+
+**Code Challenge:** Students are expected to provide a meaningful bug report or contribution to the Datascope Repository to demonstrate their capability to complete this project successfully.
+
+**Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
+
+***
+
 # Source Repositories
 
 We are committed to open source development. As a research organization, our source code lives across several open source project repositories. Most of them can be found in the below locations:
