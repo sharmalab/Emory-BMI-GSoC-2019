@@ -173,7 +173,7 @@ Students can consider OLAP engines like Kylin: http://kylin.apache.org/ for the 
 
 **[9] Security Enhancements to Bindaas Data Integration Middleware**
 
-**Mentors:** Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu), Whitney Hogg (whitney.hogg -at- emory.edu),  and Ashish Sharma (ashish.sharma -at- emory.edu)
+**Mentors:** Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu) and Whitney Hogg (whitney.hogg -at- emory.edu)
 
 **Overview:** Bindaas is a service-based data framework that offers unified access and RESTful APIs to various data sources, such as MySQL, PostgreSQL, Mongo, and Apache Drill. Additional data service providers can be implemented for various data sources and access mechanisms such as HTTP access. Bindaas is the backbone of several production systems such as the Cancer Imaging Archive (TCIA). 
 
@@ -214,7 +214,7 @@ We have built a prototype dynamic data integration framework, known as Data Cafe
 
 **[11] DataScope using serverless functions**
 
-**Mentors:**  Ashish Sharma (ashish.sharma -at- emory.edu) and Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu)
+**Mentors:**  Ashish Sharma (ashish.sharma -at- emory.edu)
 
 **Overview:** DataScope is a framework for exploratory analysis on high dimensional datasets, especially biomedical datasets. 
 
