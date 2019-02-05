@@ -214,7 +214,7 @@ We have built a prototype dynamic data integration framework, known as Data Cafe
 
 **[11] DataScope using serverless functions**
 
-**Mentors:**  Ashish Sharma (ashish.sharma -at- emory.edu)
+**Mentors:**  Ashish Sharma (ashish.sharma -at- emory.edu) and Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu)
 
 **Overview:** DataScope is a framework for exploratory analysis on high dimensional datasets, especially biomedical datasets. 
 
