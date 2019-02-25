@@ -141,7 +141,7 @@ There are very few organizations that are also working on the development of alm
 
 **[7] DeepConverter: A Universal tool for Theano to Tensorflow Convertor**
 
-**Mentors:** Monjoy Saha (monjoy.saha -at- emory.edu), Pooya Mobadersany (pooya.mobadersany -at- emory.edu), and Xiaoyuan Guo (xiaoyuan.guo -at- emory.edu)
+**Mentors:** Monjoy Saha (monjoy.saha -at- emory.edu) and Xiaoyuan Guo (xiaoyuan.guo -at- emory.edu)
 
 **Overview:** This proposal aims to develop a universal converter for converting a trained deep learning model from Theano to Tensorflow or vice-versa. There are many open-source software libraries, like Tensorflow, Theano, Caffe, CNTK, Pytorch, etc., available for dataflow programming. But it is a very complicated and challenging task if we want to run/test a trained model developed in Theano/Tensorflow/Caffe, etc., using different libraries. Hence, we are concentrating on the development of Theano to Tensorflow or vice-versa converter. We are focusing on the Theano because there will not be any further development or official release after the last version (Theano 1.0.0) on November 15, 2017 [http://deeplearning.net/software/theano/].
 
@@ -173,7 +173,7 @@ Students can consider OLAP engines like Kylin: http://kylin.apache.org/ for the 
 
 **[9] Security Enhancements to Bindaas Data Integration Middleware**
 
-**Mentors:** Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu) and Whitney Hogg (whitney.hogg -at- emory.edu)
+**Mentors:** Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu)
 
 **Overview:** Bindaas is a service-based data framework that offers unified access and RESTful APIs to various data sources, such as MySQL, PostgreSQL, Mongo, and Apache Drill. Additional data service providers can be implemented for various data sources and access mechanisms such as HTTP access. Bindaas is the backbone of several production systems such as the Cancer Imaging Archive (TCIA). 
 
