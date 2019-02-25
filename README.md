@@ -34,7 +34,7 @@ Adding multidimensional interactive visualizations would allow users to explore 
 
 **[2] Machine Learning Model Support for Digital Pathology**
 
-**Mentors:** Ryan Birmingham (rbirmin -at- emory.edu), Nan Li (nan.li -at- emory.edu), and Ping Gu (ping.gu -at- emory.edu)
+**Mentors:** Ryan Birmingham (rbirmin -at- emory.edu) and Nan Li (nan.li -at- emory.edu)
 
 **Overview:** caMicroscope is an extensible digital pathology and biomedical image viewer. This project would involve creating a workflow to allow model developers to allow their model to be run on a selected image or region of interest by the client, to identify cellular features or cancer.
 
