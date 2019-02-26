@@ -1,6 +1,5 @@
 # Emory BMI GSoC 2019
-
-Emory BMI has been accepted as a mentoring organization for Google Summer of Code 2019! We are excited and looking forward to working with the students.
+<img src="https://pbs.twimg.com/profile_images/535105446957182978/4PApPZ-s_400x400.png" width="150" height="150" align="left" /> Emory BMI has been accepted as a mentoring organization for Google Summer of Code 2019! We are excited and looking forward to working with the students.
 
 
 # Communicating with the mentors
