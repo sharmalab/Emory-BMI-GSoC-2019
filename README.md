@@ -4,8 +4,9 @@
 
 # Communicating with the mentors
 
-This year we will be using Slack as the primary medium of communication. Each idea on this page has a mentor assigned. You can find their email addresses on this page. Contact your mentor with the name of the project you are interested in, and they will invite you to our Slack team  (gsoc2019-bmi.slack.com). All communication will then happen on Slack. 
+We are using Slack as the primary medium of communication. Find and join the Emory BMI slack workspace using the link - http://bit.ly/gsoc-bmi
 
+Each idea on this page has one or two mentors assigned. Each project idea also has its own individual channel in the Slack workspace, listed below under each project idea. Make sure to join the rooms that are relevant for the projects that you are interested in. Specific discussions on each project idea happens in those channels.
  
 # List of Ideas
 Discuss the project on Slack, and once you are ready to submit your application, use the template below. You must submit your application directly using the GSoC Program Site. If you have a project idea that is relevant for Emory Biomedical Informatics, but is not listed here, feel free to consult the mentors to discuss your own idea. The ideas listed below can be open for interpretation. Feel free to discuss with the mentors for clarifications, questions, or alternative suggestions.
