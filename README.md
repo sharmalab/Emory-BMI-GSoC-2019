@@ -30,6 +30,8 @@ Adding multidimensional interactive visualizations would allow users to explore 
 
 **Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
 
+**Slack room:** gsoc2019-bmi.slack.com multidimensional-viz
+
 ***
 
 **[2] Machine Learning Model Support for Digital Pathology**
@@ -48,6 +50,8 @@ Allowing interactions in a viewer would allow model developers to more quickly d
 **Code Challenge:** Create a simple model which can run entirely in the browser.
 
 **Community and Code License:** https://github.com/camicroscope/caMicroscope BSD 3-Clause License
+
+**Slack room:** gsoc2019-bmi.slack.com ml-digital-pathology
 
 ***
 
@@ -72,6 +76,9 @@ There are very few organizations that are also working on the development of alm
 
 **Community and Code License:** Apache License 2.0
 
+**Slack room:** gsoc2019-bmi.slack.com gui-tf
+
+
 ***
 
 **[4] Development of Compact/Encapsulated Layer**  
@@ -91,6 +98,9 @@ There are very few organizations that are also working on the development of alm
 **Required Skills:** Tensorflow, Python, C/C++ (optional)
 
 **Community and Code License:** Apache License 2.0
+
+**Slack room:** gsoc2019-bmi.slack.com compact-layer
+
 
 ***
 
@@ -120,6 +130,8 @@ There are very few organizations that are also working on the development of alm
 
 **Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
 
+**Slack room:** gsoc2019-bmi.slack.com viz-recommendation
+
 
 ***
 
@@ -136,6 +148,8 @@ There are very few organizations that are also working on the development of alm
 **Required Skills:** C, software profiling, and optimization.
 
 **Community and Code License:** Apache License 2.0
+
+**Slack room:** gsoc2019-bmi.slack.com openslider-tf
 
 ***
 
@@ -155,6 +169,9 @@ There are very few organizations that are also working on the development of alm
 
 **Community and Code License:** Apache License 2.0
 
+**Slack room:** gsoc2019-bmi.slack.com theano-tf
+
+
 ***
 
 **[8] Sub-second queries on billion point datasets in Datascope**
@@ -168,6 +185,8 @@ Students can consider OLAP engines like Kylin: http://kylin.apache.org/ for the 
 **Required Skills:** Javascript
 
 **Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
+
+**Slack room:** gsoc2019-bmi.slack.com datascope-queries
 
 ***
 
@@ -191,6 +210,8 @@ Furthermore, we need to ensure that Bindaas is secured against attacks such as S
 
 **Community and Code License:** https://github.com/sharmalab/bindaas Apache License 2.0
 
+**Slack room:** gsoc2019-bmi.slack.com bindaas-security
+
 ***
 
 **[10] A Query Layer based on GraphQL for Diverse Data sets** 
@@ -209,6 +230,8 @@ We have built a prototype dynamic data integration framework, known as Data Cafe
 
 **Community and Code License**: https://github.com/sharmalab/datacafe Apache License 2.0
 
+**Slack room:** gsoc2019-bmi.slack.com graphql-datacafe
+
 
 ***
 
@@ -225,6 +248,8 @@ During this project, the student would work towards making every request for Dat
 **Code Challenge:** Students are expected to provide a meaningful bug report or contribution to the Datascope Repository to demonstrate their capability to complete this project successfully.
 
 **Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
+
+**Slack room:** gsoc2019-bmi.slack.com datascope-serverless
 
 ***
 
