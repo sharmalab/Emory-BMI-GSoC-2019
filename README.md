@@ -205,7 +205,7 @@ Furthermore, we need to ensure that Bindaas is secured against attacks such as S
 
 **Expected results:** We are aiming for the Bindaas 4.0 release with the enhancements in place.
 
-**Code challenge:** The students are expected to configure Bindaas locally during the application period to understand the code base and to illustrate their capability in completing this task. If the student manages to resolve one of the issues listed in https://github.com/sharmalab/bindaas/issues, it will make them a strong candidate.
+**Code challenge:** The students are expected to configure Bindaas locally during the application period to understand the code base and to illustrate their capability in completing this task. If the student manages to resolve one of the issues listed in https://github.com/sharmalab/bindaas/issues, it will make them a strong candidate. Please send your pull requsets to the dev branch.
 
 **Required Skills:** Java, Web Services, Apache Maven, OSGi
 
