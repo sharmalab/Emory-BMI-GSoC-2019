@@ -242,7 +242,7 @@ We have built a prototype dynamic data integration framework, known as Data Cafe
 
 **Overview:** DataScope is a framework for exploratory analysis on high dimensional datasets, especially biomedical datasets. 
 
-During this project, the student would work towards making every request for Data Cafe stateless. Consequently, the whole application will be served via a content-delivery network (CDN).
+During this project, the student would work towards making every request for DataScope stateless. Consequently, the whole application will be served via a content-delivery network (CDN).
 
 **Required Skills:** Javascript, Serverless
 
