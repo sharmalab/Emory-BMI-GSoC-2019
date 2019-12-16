@@ -1,10 +1,13 @@
 # Emory BMI GSoC 2019
+
+## This is the page for GSoC 2019. For the latest project ideas for GSoC 2020 and later, please visit https://github.com/sharmalab/Emory-BMI-GSoC
+
 <img src="https://pbs.twimg.com/profile_images/535105446957182978/4PApPZ-s_400x400.png" width="150" height="150" align="left" /> Emory BMI has been accepted as a mentoring organization for Google Summer of Code 2019! We are excited and looking forward to working with the students.
 
 
 # Communicating with the mentors
 
-We are using Slack as the primary medium of communication. Find and join the Emory BMI slack workspace using the link - http://bit.ly/gsoc-bmi (We have deactivated this link as the student application period has passed now).
+We are using Slack as the primary medium of communication. 
 
 Each idea on this page has one or two mentors assigned. Each project idea also has its own individual channel in the Slack workspace, listed below under each project idea. Make sure to join the rooms that are relevant for the projects that you are interested in. Specific discussions on each project idea happens in those channels.
  
